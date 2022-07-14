@@ -1,4 +1,7 @@
-### Hi there 👋
+### Brandon Barker
+
+I'm a computational astrophysicist that spends his time developing radiation hydrodynamics algorithms for astrophysical flows.
+My primary interest is core-collapse supernovae.
 
 <!--
 **AstroBarker/astrobarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
