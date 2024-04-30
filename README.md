@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a computational astrophysicist that spends his time developing radiation hydrodynamics algorithms for general relativistic, radiative, astrophysical flows. My primary interest is core-collapse supernovae.
+I'm a computational astrophysicist that spends his time developing radiation hydrodynamics algorithms for general relativistic, radiative, astrophysical flows. 
+My primary interests are core-collapse supernovae, mergers, numerical relativity, high order numerical methods, and open source scientific software.
 
 
 ## 🌐 Socials:
@@ -10,7 +11,7 @@ I'm a computational astrophysicist that spends his time developing radiation hyd
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AstroBarker&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AstroBarker&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroBarker&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroBarker&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=AstroBarker)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
