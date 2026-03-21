@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm a computational astrophysicist that spends his time developing radiation hydrodynamics algorithms for general relativistic, radiative, astrophysical flows. 
-My primary interests are core-collapse supernovae, mergers, numerical relativity, high order numerical methods, and open source scientific software.
+I am a computational (astro)physicist focused on multi-physics, multi-scale modeling of high energy density plasmas. 
+As an astrophysicist my work centers around understanding the origins of high-energy astrophysical transients – primarily supernovae and kilonovae. 
+I am greatly interested in the development and implementation of high-order accurate numerical methods in these contexts. 
+As an advocate for open source scientific software all of my software products will be available when possible.
 
 
 ## 🌐 Socials:
