@@ -4,6 +4,7 @@ As an astrophysicist my work centers around understanding the origins of high-en
 I am greatly interested in the development and implementation of high-order accurate numerical methods in these contexts. 
 As an advocate for open source scientific software all of my software products will be available when possible.
 
+I sometimes write [opinion pieces and tutorials](https://astrobarker.github.io/resources/) around software development and methods.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-barker-551426116) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AstroBarker) 
